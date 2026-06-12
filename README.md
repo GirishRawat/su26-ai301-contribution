@@ -1,15 +1,15 @@
 # Contribution [#]: [Issue Title]
 
 **Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Student:** [Girish Rawat]  
+**Issue:** [https://github.com/release-plz/release-plz/issues/1865]  
+**Status:** [Phase I] [Complete]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose this issue because it's a well scoped feature addition with clear acceptance criteria. Extending the JSON output of release-plz release --dry-run to match what the live command already produces. The motivation is concrete and practical: other tooling (like CI pipelines) needs a reliable way to know which crates are ready to release without actually triggering a release. The solution approach is already outlined in the issue itself, which gives me a solid starting point for Phase II. I'm also interested in learning more about Rust tooling and release automation, making this a great opportunity to contribute to a real-world developer workflow.
 
 ---
 
