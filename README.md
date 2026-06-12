@@ -1,6 +1,6 @@
 # Contribution [#]: [Issue Title]
 
-**Contribution Number:** [1 / 2 / 3]  
+**Contribution Number:** [1]  
 **Student:** [Girish Rawat]  
 **Issue:** [https://github.com/release-plz/release-plz/issues/1865]  
 **Status:** [Phase I] [Complete]
