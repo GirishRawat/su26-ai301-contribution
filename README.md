@@ -1,4 +1,4 @@
-# Contribution [#]: [Issue Title]
+# Contribution 1: More information from the output of release-plz release -o json
 
 **Contribution Number:** [1]  
 **Student:** [Girish Rawat]  
